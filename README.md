@@ -27,7 +27,7 @@ To set up the project, start by cloning the repository to your local machine. Af
 
 ## Data
 
-The data essential for executing the framework's scripts can be found in the repo
+All the essential data required to run the scripts within the framework are conveniently located within the repository. This ensures you have immediate access to the necessary datasets for executing the framework's functionalities seamlessly.
 
 ## Contributing
 
