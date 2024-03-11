@@ -26,11 +26,7 @@ Clone the repository and install the required Python packages.
 
 ## Data
 
-The data essential for executing the framework's scripts can be downloaded from a designated repository. This dataset includes crucial information required for network analysis, matrix computations, and other processes integral to the framework.
-
-[Download Data Here](https://mines0-my.sharepoint.com/:u:/g/personal/lixiangyu_mines_edu/EZelYQsjfBtItReRFDSKhqgBhNH0XJqFU77zqg_LCL0l6g?e=zyueSH)
-
-Please ensure you have access to this link and download the necessary files before proceeding with the execution of any scripts in the repository.
+The data essential for executing the framework's scripts can be found in the repo
 
 ## Contributing
 
