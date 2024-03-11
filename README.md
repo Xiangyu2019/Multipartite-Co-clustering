@@ -27,7 +27,7 @@ To set up the project, start by cloning the repository to your local machine. Af
 
 ## Data
 
-All the essential data required to run the scripts within the framework are conveniently located within the repository. This ensures you have immediate access to the necessary datasets for executing the framework's functionalities seamlessly.
+The necessary data for executing the framework's scripts is readily accessible in the Hugging Face repository. You can find all required datasets at (https://huggingface.co/datasets/Xiangyuden/Network-Fusion). This ensures integration and usage within the framework.
 
 ## Contributing
 
