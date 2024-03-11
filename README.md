@@ -18,10 +18,11 @@ The framework is structured around several key scripts, each serving a specific 
 
 - Python 3.8
 - NumPy, Pandas, SciPy, NetworkX
+- Requirements.txt
   
 ### Installation
 
-Clone the repository and install the required Python packages.
+To set up the project, start by cloning the repository to your local machine. After cloning, you will need to install the required Python packages to ensure the project runs smoothly. Additionally, a shell script that assists in constructing the network is available and can be found at `scripts/Data/constructing the Metabolic Interaction Network/create_KEGG_metabolic_modified.sh`.
 
 
 ## Data
